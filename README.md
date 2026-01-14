@@ -13,3 +13,20 @@ Dự án Xe tự hành sử dụng ESP32 được xây dựng nhằm mô phỏng
   - Servo quay cảm biến để quét không gian phía trước
   - Tự động dừng hoặc đổi hướng khi phát hiện vật cản
   - LED báo trạng thái hệ thống
+
+🧰 Phần cứng sử dụng
+  ESP32 Dev Module
+  Driver động cơ (L298N / L293D)
+  Động cơ DC + bánh xe
+  Cảm biến siêu âm HC-SR04
+  Servo SG90
+  Cảm biến dò line 5 mắt
+  LED báo hiệu
+  Nguồn pin / adapter
+
+💻 Công nghệ sử dụng:
+  Ngôn ngữ lập trình: C / C++ (Arduino Framework)
+  ESP32 WebServer
+  HTML + CSS + JavaScript (Joystick điều khiển)
+  Giao tiếp: GPIO, PWM
+  Lập trình nhúng & IoT
