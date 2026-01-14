@@ -1,10 +1,9 @@
 📌 Giới thiệu
-Dự án Xe tự hành sử dụng ESP32 được xây dựng nhằm mô phỏng một hệ thống robot di động thông minh có khả năng:
+Dự án Xe tự hành sử dụng ESP32 được xây dựng nhằm mô phỏng một hệ thống di động thông minh có khả năng:
   - Điều khiển chuyển động qua giao diện web
   - Tự động tránh vật cản bằng cảm biến siêu âm
   - Quét môi trường bằng servo
   - Hoạt động ổn định trên nền tảng Arduino (ESP32)
-Dự án phù hợp cho sinh viên ngành Điện – Điện tử, Điều khiển – Tự động hóa, Công nghệ thông tin và các bài tập lớn môn IoT / Robot / Vi điều khiển.
 
 
 ⚙️ Chức năng chính:
